@@ -9,20 +9,15 @@ A TRON token that aims to change the way referring works
 .. image:: https://img.shields.io/github/issues-pr/kironos/VRSToken.svg
     :target: https://github.com/kironos/VRSToken/pulls
 .. image:: https://img.shields.io/badge/solidity-0.4.23-blue
+    :target: https://en.wikipedia.org/wiki/Solidity
 .. image:: https://img.shields.io/badge/python-3.6-blue
+    :target: https://en.wikipedia.org/wiki/Python_(programming_language)
 
 ------------
 
-Token built with Solidity 0.4.23
+**Token built with Solidity 0.4.23**
 
-Script for rewards distribution built with Python 3.6
+**Script for rewards distribution built with Python 3.6**
 
-Piece of python code that handles rewards distribution
+**I currently have no intention to share the Python script, as this is the only thing that prevents other people to clone the project**
 
-.. code-block:: python
-# payment = ['address', 'reward']
-if token == 'TRX':
-    value = value / 10**decimals
-else:
-    value = value / 10**4
-..
