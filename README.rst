@@ -15,7 +15,7 @@ A TRON token that aims to change the way referring works
 
 ------------
 
-**Token built with Solidity 0.4.23**
+**Token code built with Solidity 0.4.23**
 
 **Script for rewards distribution built with Python 3.6**
 
